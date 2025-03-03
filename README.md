@@ -34,7 +34,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/Iamb1yat/3D_Album.git
+git clone https://github.com/onef1shy/3D_Album.git
 ```
 
 2. 修改图片：
@@ -65,12 +65,12 @@ git clone https://github.com/Iamb1yat/3D_Album.git
 
 ## 📄 许可证
 
-MIT License © [b1yat](https://github.com/Iamb1yat)
+MIT License © [onefishy](https://github.com/onef1shy)
 
 ## 🔗 相关链接
 
-- [在线演示](https://iamb1yat.github.io/3D_Album)
-- [项目介绍](https://iamb1yat.github.io/2024/01/24/3D_Album/)
+- [在线演示](https://onef1shy.github.io/3D_Album)
+- [项目介绍](https://onef1shy.github.io/2024/01/24/3D_Album/)
 
 ## ⭐ 支持项目
 
